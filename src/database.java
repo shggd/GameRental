@@ -8,9 +8,9 @@ public class database {
 
     public static Connection connect() {
         //Database LINK
-        final String host = "jdbc:postgresql://127.0.0.1:5432/project11";
-        final String uname = "postgres";
-        final String pass = "5354";
+        final String host = "jdbc:postgresql://127.0.0.1:5432/project11";//LocalHost
+        final String uname = "";
+        final String pass = "";
         Connection mycon = null;
         try {
             mycon = DriverManager.getConnection(host, uname, pass);
