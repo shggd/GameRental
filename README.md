@@ -69,6 +69,12 @@ OS name: "windows 7", version: "6.1", arch: "amd64", family: "windows"
   Run target/maven-1.0-jar-with-dependencies.jar
     
  ## Screenshots
+![Screenshot](screenshots/gamerental.gamepanel.JPG)
+![Screenshot](screenshots/gamerental.addgame.JPG)
+![Screenshot](screenshots/gamerental.rentalpanel.JPG)
+![Screenshot](screenshots/gamerental.returnpanel.JPG)
+
+
 
 
   
